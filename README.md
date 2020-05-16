@@ -16,7 +16,7 @@ This contract was deployed and tested on Kovan Test Network.
 
 contract address : 0x6b1A019C2904c4215A4Eb47736da3aE1047d55cB
 
-* **Secound Contract** 
+* **Second Contract** 
     * `TieredProfitSplitter`
     This contract distributes different percentages of incoming Ether to employees at different tiers/levels.
     
