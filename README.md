@@ -9,7 +9,7 @@ This project contains three smart contracts to automate some finances to increas
 ## Contracts 
 * **First Contract** 
     * `AssociateProfitSplitter` 
-    This contracts accept Ether into the contract and divide the Ether evenly among the recipient associate level employees.
+    This contract accepts Ether into the contract and divide the Ether evenly among the recipient associate level employees.
     This will allow the Human Resources department to pay employees quickly and efficiently.
 
 This contract was deployed and tested on Kovan Test Network
