@@ -1,5 +1,5 @@
 # Smart-contracts-with-solidity
-smart contracts to automate some finances.
+Smart contracts to automate some finances.
 
 ## Background 
 
